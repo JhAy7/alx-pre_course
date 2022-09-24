@@ -1,1 +1,1 @@
-My first readme
+This journey is amazing
